@@ -47,8 +47,3 @@ This Java-based application serves as a comprehensive showcase of real-time data
    ```
 
 
-## Personal Learning Outcomes
-
-Through this project, I have honed my skills in real-time application development, learned to integrate and utilize external APIs effectively, and deepened my understanding of Java Swing for creating responsive user interfaces. This experience has prepared me to tackle similar real-world problems and develop robust software solutions.
-
----
