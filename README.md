@@ -1,7 +1,7 @@
 # Smart-Clock
-Here's an enhanced README for your project, formatted in Markdown and tailored to catch the attention of potential employers:
-<img src="https://github.com/NooredeenAjaj/Smart-Clock/smart clock.png" width="200" height="200">
----
+
+<img src="https://github.com/NooredeenAjaj/Smart-Clock/blob/main/smart%20clock.png" width="1000" height="500">
+
 
 # Java Clock and Weather Display with OpenAI Integration
 
