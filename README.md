@@ -46,11 +46,6 @@ This Java-based application serves as a comprehensive showcase of real-time data
    java Main
    ```
 
-## Potential for Future Development
-
-- **Customizable UI:** Allow users to customize the look and feel of the clock and weather displays.
-- **Extended Weather Forecasts:** Integrate extended weather forecast features.
-- **Localization and Internationalization:** Support for multiple time zones and languages to enhance user accessibility and experience.
 
 ## Personal Learning Outcomes
 
